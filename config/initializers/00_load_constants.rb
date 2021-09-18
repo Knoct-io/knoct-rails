@@ -1,0 +1,5 @@
+PASSWORD_MIN_LENGTH = 6
+OTP_LENGTH = 6
+EMAIL_REGEX = /\S+@\S+\.[a-z]+/i
+MOBILE_REGEX = /^[0-9]{10}$/
+NAME_REGEX = /^[A-z ]+$/

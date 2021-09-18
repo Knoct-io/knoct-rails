@@ -27,6 +27,7 @@
 
 /public/assets
 .byebug_history
+.DS_store
 /public/packs
 /public/packs-test
 /node_modules
